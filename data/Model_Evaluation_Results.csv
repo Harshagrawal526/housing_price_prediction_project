@@ -1,0 +1,5 @@
+Model,MSE,R² Score
+Linear Regression,0.35,0.63
+Polynomial Regression (Degree 1),0.35,0.63
+Polynomial Regression (Degree 2),1.3061398044323422e+22,-9.023919449496214e+21
+Polynomial Regression (Degree 3),2.43,-1.66
