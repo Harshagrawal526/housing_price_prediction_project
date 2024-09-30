@@ -43,7 +43,7 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Harshagrawal526/housing_price_prediction_project.git
    cd housing_price_prediction_project
    ```
 
